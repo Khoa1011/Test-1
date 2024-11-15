@@ -13,6 +13,11 @@ int main(){
     int n;
     cout << "Thai ne";
     cout<<"Helo";
+
+    cin>>n;
+    cout<<"Hello";
+    cout<<"Hello 2 ";
+
     return 0;
 xinchao( );
 
