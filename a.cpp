@@ -11,7 +11,7 @@ public int sum(int a, int b) {
 
 int main(){
     int n;
-    cin>>n;
+    ci
     cout<<"Helo";
     return 0;
 xinchao( );
