@@ -12,7 +12,7 @@ public int sum(int a, int b) {
 int main(){
     int n;
     cin>>n;
-    cout<<"Hello";
+    cout<<"Helo";
     return 0;
 xinchao( );
 
