@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+void xinchao(){
+    cout<<"chao ban"
+}
 
 
 public int sum(int a, int b) {
@@ -11,4 +14,6 @@ int main(){
     cin>>n;
     cout<<"Hello";
     return 0;
+xinchao( );
+
 }
