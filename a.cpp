@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 void xinchao(){
     cout<<"chao ban"
 }
@@ -14,11 +15,14 @@ int main(){
     cout << "Thai ne";
     cout<<"Helo";
 
+
     cin>>n;
     cout<<"Hello";
     cout<<"Hello 2 ";
 
-    return 0;
-xinchao( );
 
+    xinchao();
+
+    return 0;
+   
 }
